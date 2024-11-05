@@ -40,5 +40,9 @@ public class Vistas_Prueba extends JFrame {
 		JButton btnNewButton = new JButton("Prueba");
 		btnNewButton.setBounds(143, 115, 89, 23);
 		contentPane.add(btnNewButton);
+		
+		JButton btnNewButton_1 = new JButton("tilines");
+		btnNewButton_1.setBounds(143, 60, 89, 23);
+		contentPane.add(btnNewButton_1);
 	}
 }
